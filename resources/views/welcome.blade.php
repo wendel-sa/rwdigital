@@ -8,6 +8,10 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="google-site-verification" content="Ckf6EqKa-P6KI727UfQ0Tz6dDLnNfq3krtAMqOIWmUk" />
     <title>RW Digital</title>
+    <meta name="theme-color" content="#084887" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="#084887" />
+    <meta name="msapplication-navbutton-color" content="#084887" />
+
     <meta content="Temos soluções digitais para seu negócio. acesse e saiba mais" name="description">
     <meta content="sites, desenvolvimento web, criação de sites, aplicativos, mobile, digital" name="keywords">
 
@@ -82,7 +86,7 @@
         <div class="container d-flex h-100">
             <div class="row justify-content-center align-self-center" data-aos="fade-up">
                 <div class="col-lg-6 col-sm-12 intro-info order-lg-first order-last" data-aos="zoom-in" data-aos-delay="100">
-                    <h2>Evolua seu negócio ou ídeia e o torne mais Produtivo <span><br /><br />VEM SER DIGITAL</span></h2>
+                    <h2>Evolua seu negócio ou ideia e o torne mais Produtivo <span><br /><br />VEM SER DIGITAL</span></h2>
                     <div>
                         <a href="https://wa.me/+5587981277492" class="btn-get-started scrollto bg-success">Entre em Contato <i class="bi bi-whatsapp"></i></a>
                     </div>
