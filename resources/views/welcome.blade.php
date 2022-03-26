@@ -81,15 +81,15 @@
     <section id="hero" class="clearfix" style="background-color: #084887;">
         <div class="container d-flex h-100">
             <div class="row justify-content-center align-self-center" data-aos="fade-up">
-                <div class="col-lg-6 intro-info order-lg-first order-last" data-aos="zoom-in" data-aos-delay="100">
+                <div class="col-lg-6 col-sm-12 intro-info order-lg-first order-last" data-aos="zoom-in" data-aos-delay="100">
                     <h2>Evolua seu negócio ou ídeia e o torne mais Produtivo <span><br /><br />VEM SER DIGITAL</span></h2>
                     <div>
                         <a href="https://wa.me/+5587981277492" class="btn-get-started scrollto bg-success">Entre em Contato <i class="bi bi-whatsapp"></i></a>
                     </div>
                 </div>
 
-                <div class="col-lg-6 intro-img order-lg-last order-first">
-                    <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_ogfhw2f7.json" background="transparent" speed="1" style="width: 600px; height: 600px;" loop autoplay></lottie-player>
+                <div class="col-lg-6 col-sm-12 intro-img order-lg-last order-first">
+                    <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_ogfhw2f7.json" background="transparent" speed="1" style="width: 100%; height: 100%;" loop autoplay></lottie-player>
                 </div>
             </div>
 
@@ -109,17 +109,10 @@
             <div class="container" data-aos="fade-up">
                 <div class="">
 
-                    <!-- imagem de sobre
-          <div class="col-lg-5 col-md-6">
-            <div class="about-img" data-aos="fade-right" data-aos-delay="100">
-              <img src="assets/img/about-img.jpg" alt="">
-            </div>
-          </div>-->
-
                     <div class="">
                         <div class="about-content" data-aos="fade-left" data-aos-delay="100">
                             <div class="row">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-sm-12">
                                     <h1 class="fw-bold">Conheça a RW Digital</h1>
                                     <h3>Agencia de Marketing Digital</h3>
                                     </h3>
@@ -131,7 +124,7 @@
 
                                     </p>
                                 </div>
-                                <div class="col-6">
+                                <div class="col-lg-6 col-sm-12">
                                     <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_eq5jbh2o.json" mode="bounce" background="rgba(255, 0, 0, 0)" speed="1" style="width: 100%; height: 100%;" loop autoplay></lottie-player>
                                 </div>
                             </div>
