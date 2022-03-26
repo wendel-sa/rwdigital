@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
   background: transparent;
 }
 #header.header-scrolled {
-  background: #fff;
+  background: #000b76;
   height: 70px;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
 }
@@ -102,7 +102,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 #header .logo a {
-  color: #413e66;
+  color: #ffffff;
 }
 #header .logo img {
   max-height: 40px;
@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
 }
 #header .social-links a {
-  color: #555186;
+  color: #ffffff;
   transition: 0.3s;
   line-height: 0;
   margin-left: 15px;
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
-  color: #413e66;
+  color: #ffffff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -230,7 +230,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #413e66;
@@ -326,7 +326,6 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: #f5f8fd url("../img/intro-bg.jpg") center top no-repeat;
   background-size: cover;
   padding-top: 110px;
 }
@@ -354,13 +353,13 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #hero .intro-info h2 {
-  color: #413e66;
+  color: #ffffff;
   margin-bottom: 40px;
   font-size: 48px;
   font-weight: 700;
 }
 #hero .intro-info h2 span {
-  color: #1bb1dc;
+  color: #ffc947;
 }
 @media (max-width: 991px) {
   #hero .intro-info h2 {

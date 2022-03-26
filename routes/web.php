@@ -15,6 +15,10 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
+})->name('inicio');
+
+Route::get('/preview', function () {
+    return view('preview');
 });
 
 Auth::routes();
